@@ -52,4 +52,4 @@ crawler1.py启动前需要给DrissionPage配置cookies (crawler2.py不用)
 <img width="1903" height="603" alt="image" src="https://github.com/user-attachments/assets/5d21d926-1bb3-4133-b224-1f1a88ed29f0" />
 
 ## 预览网页
-`https://luxuryend.github.io/boss/boss%E7%9B%B4%E8%81%98%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.html`
+`https://luxuryend.github.io/Boss/boss%E7%9B%B4%E8%81%98%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.html`
